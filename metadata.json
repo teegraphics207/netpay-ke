@@ -1,0 +1,6 @@
+{
+  "name": "NetPay KE",
+  "description": "Calculate your PAYE, SHIF, NSSF, Housing Levy, and net salary in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
