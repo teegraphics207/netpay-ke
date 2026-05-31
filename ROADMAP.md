@@ -1,69 +1,31 @@
 # NetPay KE Roadmap
 
-This roadmap shows the planned direction for **NetPay KE**.
+This roadmap outlines the planned phases and features for NetPay KE. We welcome contributions for any of the items listed below.
 
----
+## Phase 1: Open-source foundation
+- [x] Initial release of salary calculator
+- [x] Open-source documentation (README, CONTRIBUTING, LICENSE)
+- [x] Issue templates and community guidelines
+- [x] Host live demo on Vercel
 
-## Phase 1: Public Open-Source Foundation
+## Phase 2: Calculator accuracy
+- [ ] Add automated tests for PAYE, SHIF/SHA, NSSF, and Housing Levy
+- [ ] Add automated tests for gross-to-net and reverse calculations
+- [ ] Support for non-cash benefits and untaxed allowances
+- [ ] Support for private pension schemes (tier III)
 
-- [x] Create public GitHub repository.
-- [x] Add README.
-- [x] Add open-source license.
-- [x] Add changelog.
-- [x] Add contribution guide.
-- [x] Add roadmap.
-- [x] Enable GitHub issues.
-- [ ] Add screenshots.
-- [ ] Add live demo link.
-- [ ] Add first stable release.
+## Phase 3: UI/UX improvements
+- [ ] Improve mobile layout
+- [ ] Improve deduction breakdown visualizations
+- [ ] Improve accessibility (WCAG compliance)
+- [ ] Add dark mode support
 
----
+## Phase 4: Educational content
+- [ ] Add payroll explanation pages
+- [ ] Improve guide articles with real-world examples
+- [ ] Add tooltips explaining each deduction line-item
 
-## Phase 2: Calculator Accuracy
-
-- [ ] Review payroll calculation logic.
-- [ ] Add comments explaining each deduction.
-- [ ] Add tests for PAYE calculations.
-- [ ] Add tests for NSSF calculations.
-- [ ] Add tests for SHIF/SHA calculations.
-- [ ] Add tests for Housing Levy calculations.
-- [ ] Add warning when rules may be outdated.
-
----
-
-## Phase 3: UI/UX Improvements
-
-- [ ] Improve mobile layout.
-- [ ] Add clearer deduction breakdown.
-- [ ] Add salary summary card.
-- [ ] Add simple explanation for each deduction.
-- [ ] Improve accessibility and contrast.
-- [ ] Add print/download option.
-
----
-
-## Phase 4: Educational Content
-
-- [ ] Add explanation pages for PAYE.
-- [ ] Add explanation page for NSSF.
-- [ ] Add explanation page for SHIF/SHA.
-- [ ] Add explanation page for Housing Levy.
-- [ ] Add FAQ section.
-- [ ] Add beginner-friendly payroll glossary.
-
----
-
-## Phase 5: Advanced Features
-
-- [ ] Add downloadable PDF salary report.
-- [ ] Add employer payroll cost calculator.
-- [ ] Add comparison between gross salaries.
-- [ ] Add saved calculation history.
-- [ ] Add API endpoint for calculations.
-- [ ] Add admin panel for updating rates.
-
----
-
-## Long-Term Vision
-
-NetPay KE should become a trusted open-source payroll education and salary estimation tool for Kenya.
+## Phase 5: Advanced features
+- [ ] Add downloadable PDF salary report
+- [ ] Compare multiple salary scenarios
+- [ ] Add release notes and update notifications within the app

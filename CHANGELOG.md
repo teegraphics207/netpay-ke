@@ -1,35 +1,17 @@
 # Changelog
 
-All notable changes to **NetPay KE** will be documented in this file.
+All notable changes to this project will be documented in this file.
 
-This project follows a simple versioning style:
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-- `Added` for new features.
-- `Changed` for updates to existing features.
-- `Fixed` for bug fixes.
-- `Removed` for removed features.
-
----
-
-## [1.0.0] - 2026-05-31
+## [1.0.0] - Initial Public Release
 
 ### Added
-
-- Initial public release.
-- Salary input form.
-- Net pay calculation result.
-- Deduction breakdown section.
-- Basic responsive layout.
-- README, LICENSE, CONTRIBUTING, ROADMAP, and issue templates.
-
----
-
-## [Unreleased]
-
-### Planned
-
-- Add automated tests for calculation logic.
-- Add downloadable salary report.
-- Add payroll explanation pages.
-- Improve accessibility.
-- Add latest payroll rule update notes.
+- Public release of NetPay KE.
+- Salary calculator with comprehensive deduction logic.
+- Payroll deductions breakdown for PAYE, SHIF/SHA, NSSF, and Housing Levy.
+- Reverse salary calculator and raise calculator.
+- Open-source documentation including README, CONTRIBUTING, and ROADMAP.
+- Screenshots and live demo links.
+- Roadmap and issue templates to facilitate open-source contributions.
